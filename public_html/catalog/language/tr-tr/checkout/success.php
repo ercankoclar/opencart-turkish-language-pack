@@ -5,6 +5,6 @@ $_['heading_title'] = 'Siparişiniz oluşturuldu!';
 // Text
 $_['text_basket']   = 'Alışveriş Sepeti';
 $_['text_checkout'] = 'Ödeme';
-$_['text_success']  = 'Success';
-$_['text_customer'] = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']    = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_success']  = 'Başarılı';
+$_['text_customer'] = '<p>Siparişiniz başarıyla işleme alındı!</p><p>Sipariş geçmişinizi <a href="%s">hesabım</a> sayfasına gidip <a href="%s">geçmiş</a> bölümüne tıklayarak görüntüleyebilirsiniz.</p><p>Satın aldığınız ürünle ilişkili bir indirme varsa, bunları görüntülemek için hesabınızdaki <a href="%s">indirmeler</a> sayfasına gidebilirsiniz.</p><p>Sorularınız varsa lütfen <a href="%s">mağaza sahibi</a> ile iletişime geçin.</p><p>İnternet mağazamızdan alışveriş yaptığınız için teşekkür ederiz!</p>';
+$_['text_guest']    = '<p>Siparişiniz başarıyla işleme alındı!</p><p>Sorularınız varsa lütfen <a href="%s">mağaza sahibi</a> ile iletişime geçin.</p><p>İnternet mağazamızdan alışveriş yaptığınız için teşekkür ederiz!</p>';
