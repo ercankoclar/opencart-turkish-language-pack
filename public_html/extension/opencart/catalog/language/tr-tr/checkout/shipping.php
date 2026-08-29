@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Kargo ve Vergileri Hesapla';
 
 // Text
-$_['text_shipping_method'] = 'Shipping method options';
-$_['text_destination']     = 'Enter your destination to get a shipping estimate.';
-$_['text_estimate']        = 'Please select the preferred shipping method to use on this order.';
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
+$_['text_shipping_method'] = 'Kargo yöntemi seçenekleri';
+$_['text_destination']     = 'Kargo ücretini hesaplamak için teslimat adresinizi girin.';
+$_['text_estimate']        = 'Lütfen bu siparişte kullanmak istediğiniz kargo yöntemini seçin.';
+$_['text_success']         = 'Başarılı: Kargo hesaplamanız uygulandı!';
 
 // Entry
 $_['entry_country']        = 'Ülke';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_zone']           = 'Bölge / İl';
+$_['entry_postcode']       = 'Posta Kodu';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_shipping']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_postcode']       = 'Posta Kodu 2 ile 10 karakter arasında olmalıdır!';
+$_['error_country']        = 'Lütfen bir ülke seçin!';
+$_['error_zone']           = 'Lütfen bir bölge / il seçin!';
+$_['error_shipping']       = 'Uyarı: Kargo yöntemi gereklidir!';
+$_['error_no_shipping']    = 'Uyarı: Kullanılabilir kargo seçeneği bulunmuyor. Yardım için lütfen <a href="%s">bizimle iletişime geçin</a>!';
