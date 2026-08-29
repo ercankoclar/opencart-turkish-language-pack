@@ -3,28 +3,28 @@
 $_['heading_title']     = 'Müşteri Grupları';
 
 // Text
-$_['text_success']      = 'Success: You have modified customer groups!';
-$_['text_list']         = 'Customer Group List';
-$_['text_add']          = 'Add Customer Group';
-$_['text_edit']         = 'Edit Customer Group';
+$_['text_success']      = 'Başarılı: Müşteri gruplarını değiştirdiniz!';
+$_['text_list']         = 'Müşteri Grubu Listesi';
+$_['text_add']          = 'Müşteri Grubu Ekle';
+$_['text_edit']         = 'Müşteri Grubunu Düzenle';
 
 // Column
-$_['column_name']       = 'Customer Group Name';
+$_['column_name']       = 'Müşteri Grubu Adı';
 $_['column_sort_order'] = 'Sıralama';
 $_['column_action']     = 'İşlem';
 
 // Entry
-$_['entry_name']        = 'Customer Group Name';
+$_['entry_name']        = 'Müşteri Grubu Adı';
 $_['entry_description'] = 'Açıklama';
-$_['entry_approval']    = 'Approve New Customers';
+$_['entry_approval']    = 'Yeni Müşterileri Onayla';
 $_['entry_sort_order']  = 'Sıralama';
 
 // Help
-$_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
+$_['help_approval']     = 'Müşterilerin giriş yapabilmesi için bir yönetici tarafından onaylanması gerekir.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer groups!';
-$_['error_name']        = 'Customer Group Name must be between 3 and 32 characters!';
-$_['error_default']     = 'Warning: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
-$_['error_store']       = 'Warning: This customer group cannot be deleted as it is currently assigned to %s stores!';
-$_['error_customer']    = 'Warning: This customer group cannot be deleted as it is currently assigned to %s customers!';
+$_['error_permission']  = 'Uyarı: Müşteri gruplarını değiştirme yetkiniz yok!';
+$_['error_name']        = 'Müşteri Grubu Adı 3 ile 32 karakter arasında olmalıdır!';
+$_['error_default']     = 'Uyarı: Bu müşteri grubu varsayılan mağaza müşteri grubu olarak atandığı için silinemez!';
+$_['error_store']       = 'Uyarı: Bu müşteri grubu %s mağazaya atanmış olduğu için silinemez!';
+$_['error_customer']    = 'Uyarı: Bu müşteri grubu %s müşteriye atanmış olduğu için silinemez!';
