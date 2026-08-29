@@ -4,29 +4,29 @@ $_['heading_title']    = 'Banner';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified banner module!';
-$_['text_edit']        = 'Edit Banner Module';
-$_['text_slide']       = 'Slide';
-$_['text_fade']        = 'Fade';
+$_['text_success']     = 'Başarılı: Banner modülünü değiştirdiniz!';
+$_['text_edit']        = 'Banner Modülünü Düzenle';
+$_['text_slide']       = 'Kaydırma';
+$_['text_fade']        = 'Solma';
 
 // Entry
-$_['entry_name']       = 'Module Name';
+$_['entry_name']       = 'Modül Adı';
 $_['entry_banner']     = 'Banner';
-$_['entry_effect']     = 'Effect';
-$_['entry_items']      = 'Items per Slide';
-$_['entry_controls']   = 'Controls';
-$_['entry_indicators'] = 'Indicators';
-$_['entry_interval']   = 'Interval';
+$_['entry_effect']     = 'Efekt';
+$_['entry_items']      = 'Slayt Başına Öğe Sayısı';
+$_['entry_controls']   = 'Kontroller';
+$_['entry_indicators'] = 'Göstergeler';
+$_['entry_interval']   = 'Aralık';
 $_['entry_width']      = 'Genişlik';
 $_['entry_height']     = 'Yükseklik';
 $_['entry_status']     = 'Durum';
 
 // Help
-$_['help_items']       = 'The number of items to show per slide.';
+$_['help_items']       = 'Slayt başına gösterilecek öğe sayısı.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify banner module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_interval']   = 'Interval required!';
-$_['error_width']      = 'Width required!';
-$_['error_height']     = 'Height required!';
+$_['error_permission'] = 'Uyarı: Banner modülünü değiştirme yetkiniz yok!';
+$_['error_name']       = 'Modül Adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_interval']   = 'Aralık gereklidir!';
+$_['error_width']      = 'Genişlik gereklidir!';
+$_['error_height']     = 'Yükseklik gereklidir!';
