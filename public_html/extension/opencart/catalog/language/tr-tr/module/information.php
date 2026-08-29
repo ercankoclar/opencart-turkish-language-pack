@@ -3,5 +3,5 @@
 $_['heading_title'] = 'Bilgi';
 
 // Text
-$_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';
+$_['text_contact']  = 'Bize Ulaşın';
+$_['text_sitemap']  = 'Site Haritası';
