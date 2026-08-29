@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Reward Points';
-$_['text_received'] = 'You have received %s Reward Points!';
-$_['text_total']    = 'Your total number of reward points is now %s.';
+$_['text_subject']  = '%s - Ödül Puanları';
+$_['text_received'] = '%s Ödül Puanı kazandınız!';
+$_['text_total']    = 'Toplam ödül puanı sayınız artık %s.';
