@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_log']               = 'Check the subscription log for more information.';
+$_['text_log']               = 'Daha fazla bilgi için abonelik günlüğünü kontrol edin.';
 
 // Error
-$_['error_store'] 		     = 'Warning: Store not found!';
-$_['error_language']         = 'Warning: Language could not be found!';
-$_['error_currency']         = 'Warning: Currency could not be found!';
-$_['error_customer']         = 'Warning: Customer could not be found!';
-$_['error_payment_address']  = 'Warning: Payment address could not be found!';
-$_['error_shipping_address'] = 'Warning: Shipping address could not be found!';
-$_['error_product']          = 'Warning: Product %s could not be found!';
-$_['error_option']           = 'Warning: Option %s could not be found!';
-$_['error_shipping_method']  = 'Warning: Shipping method required!';
-$_['error_payment_method']   = 'Warning: Payment method required!';
-$_['error_extension']        = 'Warning: Payment method extension could not be found!';
+$_['error_store']            = 'Uyarı: Mağaza bulunamadı!';
+$_['error_language']         = 'Uyarı: Dil bulunamadı!';
+$_['error_currency']         = 'Uyarı: Para birimi bulunamadı!';
+$_['error_customer']         = 'Uyarı: Müşteri bulunamadı!';
+$_['error_payment_address']  = 'Uyarı: Fatura adresi bulunamadı!';
+$_['error_shipping_address'] = 'Uyarı: Teslimat adresi bulunamadı!';
+$_['error_product']          = 'Uyarı: %s ürünü bulunamadı!';
+$_['error_option']           = 'Uyarı: %s seçeneği bulunamadı!';
+$_['error_shipping_method']  = 'Uyarı: Teslimat yöntemi gereklidir!';
+$_['error_payment_method']   = 'Uyarı: Ödeme yöntemi gereklidir!';
+$_['error_extension']        = 'Uyarı: Ödeme yöntemi eklentisi bulunamadı!';
