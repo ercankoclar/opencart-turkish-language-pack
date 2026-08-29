@@ -4,8 +4,8 @@ $_['heading_title']    = 'Sabit Ücret';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified flat rate shipping!';
-$_['text_edit']        = 'Edit Flat Rate Shipping';
+$_['text_success']     = 'Başarılı: Sabit ücretli kargo ayarlarını değiştirdiniz!';
+$_['text_edit']        = 'Sabit Ücretli Kargoyu Düzenle';
 
 // Entry
 $_['entry_cost']       = 'Ücret';
@@ -15,4 +15,4 @@ $_['entry_status']     = 'Durum';
 $_['entry_sort_order'] = 'Sıralama';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify flat rate shipping!';
+$_['error_permission'] = 'Uyarı: Sabit ücretli kargo ayarlarını değiştirme yetkiniz yok!';
