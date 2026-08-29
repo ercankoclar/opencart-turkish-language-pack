@@ -1,50 +1,51 @@
 <?php
+
 // Heading
-$_['heading_title']           = 'Articles';
+$_['heading_title']           = 'Makaleler';
 
 // Text
-$_['text_success']            = 'Success: You have modified articles!';
-$_['text_next']               = 'Success: You have modified %s to %s of %s article ratings!';
-$_['text_list']               = 'Article List';
-$_['text_add']                = 'Add Article';
-$_['text_edit']               = 'Edit Article';
+$_['text_success']            = 'Başarılı: Makaleleri değiştirdiniz!';
+$_['text_next']               = 'Başarılı: Makale değerlendirmelerinin %s ile %s arasındaki %s tanesini değiştirdiniz!';
+$_['text_list']               = 'Makale Listesi';
+$_['text_add']                = 'Makale Ekle';
+$_['text_edit']               = 'Makaleyi Düzenle';
 $_['text_default']            = 'Varsayılan';
-$_['text_general']            = 'General';
-$_['text_meta']               = 'Meta Tags';
-$_['text_keyword']            = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+$_['text_general']            = 'Genel';
+$_['text_meta']               = 'Meta Etiketleri';
+$_['text_keyword']            = 'Boşluk kullanmayın, bunun yerine boşlukları - ile değiştirin ve SEO URL adresinin genel olarak benzersiz olduğundan emin olun.';
 
 // Column
-$_['column_name']             = 'Article Name';
+$_['column_name']             = 'Makale Adı';
 $_['column_author']           = 'Yazar';
-$_['column_rating']           = 'Rating';
+$_['column_rating']           = 'Değerlendirme';
 $_['column_date_added']       = 'Eklenme Tarihi';
 $_['column_action']           = 'İşlem';
 
 // Entry
 $_['entry_image']             = 'Görsel';
-$_['entry_name']              = 'Article Name';
+$_['entry_name']              = 'Makale Adı';
 $_['entry_description']       = 'Açıklama';
-$_['entry_tag']               = 'Tags';
-$_['entry_meta_title']        = 'Meta Tag Title';
-$_['entry_meta_keyword']      = 'Meta Tag Keywords';
-$_['entry_meta_description']  = 'Meta Tag Description';
-$_['entry_topic']             = 'Topic';
+$_['entry_tag']               = 'Etiketler';
+$_['entry_meta_title']        = 'Meta Etiket Başlığı';
+$_['entry_meta_keyword']      = 'Meta Etiket Anahtar Kelimeleri';
+$_['entry_meta_description']  = 'Meta Etiket Açıklaması';
+$_['entry_topic']             = 'Konu';
 $_['entry_author']            = 'Yazar';
 $_['entry_store']             = 'Mağazalar';
 $_['entry_sort_order']        = 'Sıralama';
 $_['entry_status']            = 'Durum';
 $_['entry_keyword']           = 'Anahtar Kelime';
-$_['entry_layout']            = 'Layout Override';
+$_['entry_layout']            = 'Yerleşim Geçersiz Kılma';
 
 // Button
-$_['button_rating']           = 'Calculate Ratings';
+$_['button_rating']           = 'Değerlendirmeleri Hesapla';
 
 // Error
 $_['error_warning']           = 'Uyarı: Lütfen formu hatalar açısından dikkatlice kontrol edin!';
-$_['error_permission']        = 'Warning: You do not have permission to modify articles!';
-$_['error_name']              = 'Article Name must be between 1 and 255 characters!';
-$_['error_meta_title']        = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_author']            = 'Author must be between 3 and 64 characters!';
-$_['error_keyword']           = 'SEO URL must be between 1 and 64 characters!';
-$_['error_keyword_exists']    = 'SEO URL must be unique!';
-$_['error_keyword_character'] = 'Keyword can only use characters a-z, 0-9, - and _!';
+$_['error_permission']        = 'Uyarı: Makaleleri değiştirme yetkiniz yok!';
+$_['error_name']              = 'Makale Adı 1 ile 255 karakter arasında olmalıdır!';
+$_['error_meta_title']        = 'Meta Başlık 1 karakterden uzun ve 255 karakterden kısa olmalıdır!';
+$_['error_author']            = 'Yazar 3 ile 64 karakter arasında olmalıdır!';
+$_['error_keyword']           = 'SEO URL 1 ile 64 karakter arasında olmalıdır!';
+$_['error_keyword_exists']    = 'SEO URL benzersiz olmalıdır!';
+$_['error_keyword_character'] = 'Anahtar Kelime yalnızca a-z, 0-9, - ve _ karakterlerini kullanabilir!';
