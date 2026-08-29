@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'GDPR Success';
+$_['heading_title'] = 'GDPR Başarılı';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_export']   = 'A request to export your account data has been received.';
-$_['text_remove']   = 'GDPR account deletion requests will process after <strong>%s days</strong> so any chargebacks, refunds or fraud detection can be processed.';
+$_['text_account']  = 'Hesap';
+$_['text_export']   = 'Hesap verilerinizin dışa aktarılması için bir talep alındı.';
+$_['text_remove']   = 'GDPR hesap silme talepleri, geri ödemeler, ters ibrazlar veya dolandırıcılık tespit işlemlerinin gerçekleştirilebilmesi için <strong>%s gün</strong> sonra işleme alınacaktır.';
