@@ -3,4 +3,4 @@
 $_['heading_title']    = 'Sabit Ücret';
 
 // Text
-$_['text_description'] = 'Flat Shipping Rate';
+$_['text_description'] = 'Sabit Kargo Ücreti';
