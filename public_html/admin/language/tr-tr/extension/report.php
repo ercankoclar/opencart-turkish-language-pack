@@ -3,15 +3,15 @@
 $_['heading_title']     = 'Raporlar';
 
 // Text
-$_['text_success']      = 'Success: You have modified reports!';
-$_['text_list']         = 'Reports List';
+$_['text_success']      = 'Başarılı: Raporları değiştirdiniz!';
+$_['text_list']         = 'Rapor Listesi';
 
 // Column
-$_['column_name']       = 'Report Name';
+$_['column_name']       = 'Rapor Adı';
 $_['column_status']     = 'Durum';
 $_['column_sort_order'] = 'Sıralama';
 $_['column_action']     = 'İşlem';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reports!';
-$_['error_extension']   = 'Warning: Extension does not exist!';
+$_['error_permission']  = 'Uyarı: Raporları değiştirme yetkiniz yok!';
+$_['error_extension']   = 'Uyarı: Eklenti mevcut değil!';
