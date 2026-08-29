@@ -3,28 +3,28 @@
 $_['heading_title']          = 'Bölgeler';
 
 // Text
-$_['text_success']           = 'Success: You have modified zones!';
-$_['text_list']              = 'Zone List';
-$_['text_add']               = 'Add Zone';
-$_['text_edit']              = 'Edit Zone';
+$_['text_success']           = 'Başarılı: Bölgeleri değiştirdiniz!';
+$_['text_list']              = 'Bölge Listesi';
+$_['text_add']               = 'Bölge Ekle';
+$_['text_edit']              = 'Bölgeyi Düzenle';
 $_['text_filter']            = 'Filtrele';
 
 // Column
-$_['column_name']            = 'Zone Name';
-$_['column_code']            = 'Zone Code';
+$_['column_name']            = 'Bölge Adı';
+$_['column_code']            = 'Bölge Kodu';
 $_['column_country']         = 'Ülke';
 $_['column_action']          = 'İşlem';
 
 // Entry
-$_['entry_name']             = 'Zone Name';
-$_['entry_code']             = 'Zone Code';
+$_['entry_name']             = 'Bölge Adı';
+$_['entry_code']             = 'Bölge Kodu';
 $_['entry_country']          = 'Ülke';
 $_['entry_status']           = 'Durum';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify zones!';
-$_['error_name']             = 'Zone Name must be between 1 and 128 characters!';
-$_['error_default']          = 'Warning: This zone cannot be deleted as it is currently assigned as the default store zone!';
-$_['error_store']            = 'Warning: This zone cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']          = 'Warning: This zone cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_zone_to_geo_zone'] = 'Warning: This zone cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']       = 'Uyarı: Bölgeleri değiştirme yetkiniz yok!';
+$_['error_name']             = 'Bölge Adı 1 ile 128 karakter arasında olmalıdır!';
+$_['error_default']          = 'Uyarı: Bu bölge varsayılan mağaza bölgesi olarak atandığı için silinemez!';
+$_['error_store']            = 'Uyarı: Bu bölge %s mağazaya atanmış olduğu için silinemez!';
+$_['error_address']          = 'Uyarı: Bu bölge %s adres defteri kaydına atanmış olduğu için silinemez!';
+$_['error_zone_to_geo_zone'] = 'Uyarı: Bu bölge %s coğrafi bölgeye atanmış olduğu için silinemez!';
