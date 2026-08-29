@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']   = 'Permission Denied!';
+$_['heading_title']   = 'İzin Reddedildi!';
 
 // Text
-$_['text_permission'] = 'You do not have permission to access this page, please refer to your system administrator.';
+$_['text_permission'] = 'Bu sayfaya erişim yetkiniz yok. Lütfen sistem yöneticinize başvurun.';
