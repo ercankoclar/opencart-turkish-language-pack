@@ -13,8 +13,8 @@ $_['text_agree']               = '<a href="%s" class="modal-link"><b>%s</b></a> 
 
 // Entry
 $_['entry_customer_group']     = 'Müşteri Grubu';
-$_['entry_firstname']          = 'First Name';
-$_['entry_lastname']           = 'Last Name';
+$_['entry_firstname']          = 'Ad';
+$_['entry_lastname']           = 'Soyad';
 $_['entry_email']              = 'E-Mail';
 $_['entry_telephone']          = 'Telephone';
 $_['entry_newsletter']         = 'Abone Ol';
