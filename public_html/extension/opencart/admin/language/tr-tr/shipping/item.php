@@ -4,8 +4,8 @@ $_['heading_title']    = 'Ürün Başına';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified shipping per item rates!';
-$_['text_edit']        = 'Edit Per Item Shipping';
+$_['text_success']     = 'Başarılı: Ürün başına kargo ücretlerini değiştirdiniz!';
+$_['text_edit']        = 'Ürün Başına Kargoyu Düzenle';
 
 // Entry
 $_['entry_cost']       = 'Ücret';
@@ -15,4 +15,4 @@ $_['entry_status']     = 'Durum';
 $_['entry_sort_order'] = 'Sıralama';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping per item rates!';
+$_['error_permission'] = 'Uyarı: Ürün başına kargo ücretlerini değiştirme yetkiniz yok!';
