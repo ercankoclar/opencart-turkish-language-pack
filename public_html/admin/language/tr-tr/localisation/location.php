@@ -1,35 +1,35 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store Locations';
+$_['heading_title']    = 'Mağaza Konumları';
 
 // Text
-$_['text_success']     = 'Success: You have modified store locations!';
-$_['text_list']        = 'Store Location List';
-$_['text_add']         = 'Add Store Location';
-$_['text_edit']        = 'Edit Store Location';
+$_['text_success']     = 'Başarılı: Mağaza konumlarını değiştirdiniz!';
+$_['text_list']        = 'Mağaza Konumu Listesi';
+$_['text_add']         = 'Mağaza Konumu Ekle';
+$_['text_edit']        = 'Mağaza Konumunu Düzenle';
 
 // Column
-$_['column_name']      = 'Store Name';
+$_['column_name']      = 'Mağaza Adı';
 $_['column_address']   = 'Adres';
 $_['column_action']    = 'İşlem';
 
 // Entry
-$_['entry_name']       = 'Store Name';
+$_['entry_name']       = 'Mağaza Adı';
 $_['entry_address']    = 'Adres';
-$_['entry_geocode']    = 'Geocode';
+$_['entry_geocode']    = 'Coğrafi Kod';
 $_['entry_telephone']  = 'Telefon';
-$_['entry_image']      = 'Image';
-$_['entry_open']       = 'Opening Times';
-$_['entry_comment']    = 'Comment';
+$_['entry_image']      = 'Görsel';
+$_['entry_open']       = 'Çalışma Saatleri';
+$_['entry_comment']    = 'Yorum';
 
 // Help
-$_['help_telephone']   = 'Please enter your store location telephone number.';
-$_['help_geocode']     = 'Please enter your store location geocode manually.';
-$_['help_open']        = 'Fill in your stores opening times.';
-$_['help_comment']     = 'This field is for any special notes you would like to tell the customer i.e. Store does not accept cheques.';
+$_['help_telephone']   = 'Lütfen mağaza konumunuzun telefon numarasını girin.';
+$_['help_geocode']     = 'Lütfen mağaza konumunuzun coğrafi kodunu manuel olarak girin.';
+$_['help_open']        = 'Mağazanızın çalışma saatlerini doldurun.';
+$_['help_comment']     = 'Bu alan, müşteriye iletmek istediğiniz özel notlar içindir. Örneğin: Mağaza çek kabul etmiyor.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store locations!';
-$_['error_name']       = 'Store name must be between 3 and 32 characters!';
-$_['error_address']    = 'Address must be between 3 and 128 characters!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_permission'] = 'Uyarı: Mağaza konumlarını değiştirme yetkiniz yok!';
+$_['error_name']       = 'Mağaza adı 3 ile 32 karakter arasında olmalıdır!';
+$_['error_address']    = 'Adres 3 ile 128 karakter arasında olmalıdır!';
+$_['error_telephone']  = 'Telefon 3 ile 32 karakter arasında olmalıdır!';
