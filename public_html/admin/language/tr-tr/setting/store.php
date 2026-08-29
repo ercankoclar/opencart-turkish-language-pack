@@ -25,14 +25,14 @@ $_['text_currency']                    = 'Para Birimi';
 
 // Column
 $_['column_name']                      = 'Mağaza Adı';
-$_['column_url']                       = 'Mağaza URL si';
-$_['column_action']                    = 'Action';
+$_['column_url']                       = 'Mağaza URL\'si';
+$_['column_action']                    = 'İşlem';
 
 // Entry
-$_['entry_url']                        = 'Mağaza URL si';
+$_['entry_url']                        = 'Mağaza URL\'si';
 $_['entry_meta_title']                 = 'Meta Başlık';
-$_['entry_meta_description']           = 'Meta Etiket Açıklaması';
-$_['entry_meta_keyword']               = 'Meta Etiket Anahtar Kelimeleri';
+$_['entry_meta_description']           = 'Meta Açıklaması';
+$_['entry_meta_keyword']               = 'Meta Anahtar Kelimeleri';
 $_['entry_layout']                     = 'Varsayılan Yerleşim';
 $_['entry_theme']                      = 'Tema';
 $_['entry_name']                       = 'Mağaza Adı';
@@ -86,7 +86,7 @@ $_['entry_width']                      = 'Genişlik';
 $_['entry_height']                     = 'Yükseklik';
 
 // Help
-$_['help_url']                         = 'Mağazanızın tam URL sini girin. Sonuna \'/\' eklediğinizden emin olun. Örnek: http://www.yourdomain.com/path/<br/><br/>Yeni mağaza oluşturmak için dizin kullanmayın. Her zaman başka bir alan adını veya alt alan adını barındırma hizmetinize yönlendirmelisiniz.';
+$_['help_url']                         = 'Mağazanızın tam URL\'sini girin. Sonuna \'/\' eklediğinizden emin olun. Örnek: http://www.yourdomain.com/path/<br/><br/>Yeni mağaza oluşturmak için dizin kullanmayın. Her zaman başka bir alan adını veya alt alan adını barındırma hizmetinize yönlendirmelisiniz.';
 $_['help_icon']                        = 'Simge 16px x 16px boyutunda bir PNG olmalıdır.';
 $_['help_geocode']                     = 'Lütfen mağaza konumunuzun coğrafi kodunu manuel olarak girin.';
 $_['help_open']                        = 'Mağazanızın çalışma saatlerini girin.';
@@ -114,8 +114,8 @@ $_['help_product_search']              = 'Birden fazla kelimeli ürün aramasın
 // Error
 $_['error_warning']                    = 'Uyarı: Lütfen formu hatalar açısından dikkatlice kontrol edin!';
 $_['error_permission']                 = 'Uyarı: Mağazaları değiştirme yetkiniz yok!';
-$_['error_url']                        = 'Mağaza URL si gereklidir!';
-$_['error_meta_title']                 = 'Title must be between 3 and 32 characters!';
+$_['error_url']                        = 'Mağaza URL\'si gereklidir!';
+$_['error_meta_title']                 = 'Başlık 3 ile 32 karakter arasında olmalıdır!';
 $_['error_name']                       = 'Mağaza Adı 3 ile 32 karakter arasında olmalıdır!';
 $_['error_owner']                      = 'Mağaza Sahibi 3 ile 64 karakter arasında olmalıdır!';
 $_['error_address']                    = 'Mağaza Adresi 10 ile 256 karakter arasında olmalıdır!';
