@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Affiliate Credit';
-$_['text_received'] = 'You have received %s credit!';
-$_['text_total']    = 'Your total amount of credit is now %s.';
-$_['text_credit']   = 'Your account credit can deducted from your next purchase.';
+$_['text_subject']  = '%s - İş Ortağı Kredisi';
+$_['text_received'] = '%s kredi kazandınız!';
+$_['text_total']    = 'Toplam kredi tutarınız artık %s.';
+$_['text_credit']   = 'Hesap krediniz bir sonraki alışverişinizden düşülebilir.';
