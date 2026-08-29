@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'Exception Error!';
+$_['heading_title'] = 'İstisna Hatası!';
 
 // Text
-$_['text_home']     = 'Home';
-$_['text_exception'] = 'An unexpected error has occurred. Please check the error log for details.';
+$_['text_home']     = 'Ana Sayfa';
+$_['text_exception'] = 'Beklenmeyen bir hata oluştu. Ayrıntılar için lütfen hata günlüğünü kontrol edin.';
