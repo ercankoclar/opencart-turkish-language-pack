@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'GDPR Approvals';
+$_['heading_title']     = 'GDPR Onayları';
 
 // Text
-$_['text_success']      = 'Success: You have modified GDPR approvals!';
-$_['text_list']         = 'GDPR Approval List';
-$_['text_info']         = '<strong>GDPR</strong> account deletion requests will process after <strong>%s days</strong> so any fraud detection, chargebacks or refunds can be processed.';
+$_['text_success']      = 'Başarılı: GDPR onaylarını değiştirdiniz!';
+$_['text_list']         = 'GDPR Onay Listesi';
+$_['text_info']         = '<strong>GDPR</strong> hesap silme talepleri <strong>%s gün</strong> sonra işleme alınır; böylece dolandırıcılık tespiti, ters ibrazlar veya iadeler işleme alınabilir.';
 $_['text_approve']      = 'Onayla';
-$_['text_deny']         = 'Deny';
+$_['text_deny']         = 'Reddet';
 $_['text_delete']       = 'Sil';
-$_['text_unverified']   = 'Unverified';
-$_['text_pending']      = 'Pending';
-$_['text_processing']   = 'Processing';
-$_['text_complete']     = 'Complete';
-$_['text_denied']       = 'Denied';
-$_['text_export']       = 'Export';
+$_['text_unverified']   = 'Doğrulanmamış';
+$_['text_pending']      = 'Beklemede';
+$_['text_processing']   = 'İşleniyor';
+$_['text_complete']     = 'Tamamlandı';
+$_['text_denied']       = 'Reddedildi';
+$_['text_export']       = 'Dışa Aktar';
 $_['text_remove']       = 'Kaldır';
 $_['text_filter']       = 'Filtrele';
 
 // Column
 $_['column_email']      = 'E-posta';
-$_['column_request']    = 'Request';
+$_['column_request']    = 'Talep';
 $_['column_status']     = 'Durum';
 $_['column_date_added'] = 'Eklenme Tarihi';
 $_['column_action']     = 'İşlem';
@@ -29,8 +29,8 @@ $_['column_action']     = 'İşlem';
 $_['entry_email']       = 'E-posta';
 $_['entry_action']      = 'İşlem';
 $_['entry_status']      = 'Durum';
-$_['entry_date_from']   = 'Date From';
-$_['entry_date_to']     = 'Date To';
+$_['entry_date_from']   = 'Başlangıç Tarihi';
+$_['entry_date_to']     = 'Bitiş Tarihi';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify GDPR approvals!';
+$_['error_permission']  = 'Uyarı: GDPR onaylarını değiştirme yetkiniz yok!';
