@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']      = 'Subscription Statuses';
+$_['heading_title']      = 'Abonelik Durumları';
 
 // Text
-$_['text_success']       = 'Success: You have modified subscription statuses!';
-$_['text_list']          = 'Subscription Status List';
-$_['text_add']           = 'Add Subscription Status';
-$_['text_edit']          = 'Edit Subscription Status';
+$_['text_success']       = 'Başarılı: Abonelik durumlarını değiştirdiniz!';
+$_['text_list']          = 'Abonelik Durumu Listesi';
+$_['text_add']           = 'Abonelik Durumu Ekle';
+$_['text_edit']          = 'Abonelik Durumunu Düzenle';
 
 // Column
-$_['column_name']        = 'Subscription Status Name';
+$_['column_name']        = 'Abonelik Durumu Adı';
 $_['column_action']      = 'İşlem';
 
 // Entry
-$_['entry_name']         = 'Subscription Status Name';
+$_['entry_name']         = 'Abonelik Durumu Adı';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify subscription statuses!';
-$_['error_name']         = 'Subscription Status Name must be between 3 and 32 characters!';
-$_['error_default']      = 'Warning: This subscription status cannot be deleted as it is currently assigned as the default store subscription status!';
-$_['error_subscription'] = 'Warning: This subscription status cannot be deleted as it is currently assigned to %s subscriptions!';
+$_['error_permission']   = 'Uyarı: Abonelik durumlarını değiştirme yetkiniz yok!';
+$_['error_name']         = 'Abonelik Durumu Adı 3 ile 32 karakter arasında olmalıdır!';
+$_['error_default']      = 'Uyarı: Bu abonelik durumu varsayılan mağaza abonelik durumu olarak atandığı için silinemez!';
+$_['error_subscription'] = 'Uyarı: Bu abonelik durumu %s aboneliğe atanmış olduğu için silinemez!';
