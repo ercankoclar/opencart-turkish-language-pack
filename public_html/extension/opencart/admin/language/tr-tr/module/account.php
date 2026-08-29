@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Hesap';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified account module!';
-$_['text_edit']        = 'Edit Account Module';
+$_['text_success']     = 'Başarılı: Hesap modülünü değiştirdiniz!';
+$_['text_edit']        = 'Hesap Modülünü Düzenle';
 
 // Entry
 $_['entry_status']     = 'Durum';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify account module!';
+$_['error_permission'] = 'Uyarı: Hesap modülünü değiştirme yetkiniz yok!';
