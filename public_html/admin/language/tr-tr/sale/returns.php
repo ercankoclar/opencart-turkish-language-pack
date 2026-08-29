@@ -1,71 +1,71 @@
 <?php
 // Heading
-$_['heading_title']       = 'Returns';
+$_['heading_title']       = 'İadeler';
 
 // Text
-$_['text_success']        = 'Success: You have modified returns!';
-$_['text_list']           = 'Return List';
-$_['text_add']            = 'Add Return';
-$_['text_edit']           = 'Return (#%s)';
-$_['text_order_id']       = 'Order ID';
+$_['text_success']        = 'Başarılı: İadeleri değiştirdiniz!';
+$_['text_list']           = 'İade Listesi';
+$_['text_add']            = 'İade Ekle';
+$_['text_edit']           = 'İade (#%s)';
+$_['text_order_id']       = 'Sipariş No';
 $_['text_filter']         = 'Filtrele';
 $_['text_customer']       = 'Müşteri';
 $_['text_date_added']     = 'Eklenme Tarihi';
-$_['text_return']         = 'Return Item';
-$_['text_product']        = 'Choose Product to return';
-$_['text_opened']         = 'Opened';
-$_['text_unopened']       = 'Unopened';
-$_['text_history']        = 'History';
-$_['text_history_add']    = 'Add History';
+$_['text_return']         = 'İade Ürünü';
+$_['text_product']        = 'İade edilecek ürünü seçin';
+$_['text_opened']         = 'Açılmış';
+$_['text_unopened']       = 'Açılmamış';
+$_['text_history']        = 'Geçmiş';
+$_['text_history_add']    = 'Geçmiş Ekle';
 
 // Column
-$_['column_return_id']    = 'Return ID';
-$_['column_order_id']     = 'Order ID';
+$_['column_return_id']    = 'İade No';
+$_['column_order_id']     = 'Sipariş No';
 $_['column_customer']     = 'Müşteri';
 $_['column_product']      = 'Ürün';
 $_['column_model']        = 'Model';
 $_['column_quantity']     = 'Miktar';
 $_['column_status']       = 'Durum';
 $_['column_date_added']   = 'Eklenme Tarihi';
-$_['column_comment']      = 'Comment';
-$_['column_notify']       = 'Customer Notified';
+$_['column_comment']      = 'Yorum';
+$_['column_notify']       = 'Müşteriye Bildirildi';
 $_['column_action']       = 'İşlem';
 
 // Entry
 $_['entry_customer']      = 'Müşteri';
-$_['entry_order_id']      = 'Order ID';
-$_['entry_firstname']     = 'First Name';
-$_['entry_lastname']      = 'Last Name';
-$_['entry_email']         = 'E-Mail';
-$_['entry_telephone']     = 'Telephone';
+$_['entry_order_id']      = 'Sipariş No';
+$_['entry_firstname']     = 'Ad';
+$_['entry_lastname']      = 'Soyad';
+$_['entry_email']         = 'E-posta';
+$_['entry_telephone']     = 'Telefon';
 $_['entry_product']       = 'Ürün';
 $_['entry_model']         = 'Model';
 $_['entry_quantity']      = 'Miktar';
-$_['entry_opened']        = 'Opened';
-$_['entry_comment']       = 'Comment';
-$_['entry_return_reason'] = 'Return Reason';
-$_['entry_return_action'] = 'Return Action';
-$_['entry_return_status'] = 'Return Status';
-$_['entry_return_id']     = 'Return ID';
-$_['entry_notify']        = 'Notify Customer';
-$_['entry_date_from']     = 'Date From';
-$_['entry_date_to']       = 'Date To';
+$_['entry_opened']        = 'Açılmış';
+$_['entry_comment']       = 'Yorum';
+$_['entry_return_reason'] = 'İade Nedeni';
+$_['entry_return_action'] = 'İade İşlemi';
+$_['entry_return_status'] = 'İade Durumu';
+$_['entry_return_id']     = 'İade No';
+$_['entry_notify']        = 'Müşteriye Bildir';
+$_['entry_date_from']     = 'Başlangıç Tarihi';
+$_['entry_date_to']       = 'Bitiş Tarihi';
 
 // Help
-$_['help_product']        = '(Autocomplete)';
+$_['help_product']        = '(Otomatik Tamamlama)';
 
 // Error
 $_['error_warning']       = 'Uyarı: Lütfen formu hatalar açısından dikkatlice kontrol edin!';
-$_['error_permission']    = 'Warning: You do not have permission to modify returns!';
-$_['error_order']         = 'Order not found!';
-$_['error_customer']      = 'Customer not found!';
-$_['error_firstname']     = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']      = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']         = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']     = 'Telephone must be between 3 and 32 characters!';
-$_['error_product']       = 'Product not found!';
-$_['error_name']          = 'Product Name must be greater than 1 and less than 255 characters!';
-$_['error_model']         = 'Product Model must be greater than 1 and less than 64 characters!';
-$_['error_quantity']      = 'Return quantity must be at least 1!';
-$_['error_reason']        = 'You must select a return reason!';
-$_['error_action']        = 'You must select a return action!';
+$_['error_permission']    = 'Uyarı: İadeleri değiştirme yetkiniz yok!';
+$_['error_order']         = 'Sipariş bulunamadı!';
+$_['error_customer']      = 'Müşteri bulunamadı!';
+$_['error_firstname']     = 'Ad 1 ile 32 karakter arasında olmalıdır!';
+$_['error_lastname']      = 'Soyad 1 ile 32 karakter arasında olmalıdır!';
+$_['error_email']         = 'E-posta Adresi geçerli görünmüyor!';
+$_['error_telephone']     = 'Telefon 3 ile 32 karakter arasında olmalıdır!';
+$_['error_product']       = 'Ürün bulunamadı!';
+$_['error_name']          = 'Ürün Adı 1 karakterden uzun ve 255 karakterden kısa olmalıdır!';
+$_['error_model']         = 'Ürün Modeli 1 karakterden uzun ve 64 karakterden kısa olmalıdır!';
+$_['error_quantity']      = 'İade miktarı en az 1 olmalıdır!';
+$_['error_reason']        = 'Bir iade nedeni seçmelisiniz!';
+$_['error_action']        = 'Bir iade işlemi seçmelisiniz!';
