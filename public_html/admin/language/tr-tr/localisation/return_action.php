@@ -3,19 +3,19 @@
 $_['heading_title']    = 'İade İşlemleri';
 
 // Text
-$_['text_success']     = 'Success: You have modified return actions!';
-$_['text_list']        = 'Return Action List';
-$_['text_add']         = 'Add Return Action';
-$_['text_edit']        = 'Edit Return Action';
+$_['text_success']     = 'Başarılı: İade işlemlerini değiştirdiniz!';
+$_['text_list']        = 'İade İşlemleri Listesi';
+$_['text_add']         = 'İade İşlemi Ekle';
+$_['text_edit']        = 'İade İşlemini Düzenle';
 
 // Column
-$_['column_name']      = 'Return Action Name';
+$_['column_name']      = 'İade İşlemi Adı';
 $_['column_action']    = 'İşlem';
 
 // Entry
-$_['entry_name']       = 'Return Action Name';
+$_['entry_name']       = 'İade İşlemi Adı';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return actions!';
-$_['error_name']       = 'Return Action Name must be between 3 and 64 characters!';
-$_['error_return']     = 'Warning: This return action cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_permission'] = 'Uyarı: İade işlemlerini değiştirme yetkiniz yok!';
+$_['error_name']       = 'İade İşlemi Adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_return']     = 'Uyarı: Bu iade işlemi %s iade edilmiş ürüne atanmış olduğu için silinemez!';
