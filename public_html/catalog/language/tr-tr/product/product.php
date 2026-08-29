@@ -29,6 +29,6 @@ $_['entry_qty']                  = 'Miktar';
 $_['entry_rating']               = 'Puan';
 
 // Tabs
-$_['tab_description']            = 'Description';
+$_['tab_description']            = 'Açıklama';
 $_['tab_attribute']              = 'Özellikler';
 $_['tab_review']                 = 'Değerlendirmeler (%s)';
