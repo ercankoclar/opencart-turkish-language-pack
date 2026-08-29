@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Low Order Fee';
+$_['heading_title']    = 'Düşük Sipariş Ücreti';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified low order fee total!';
-$_['text_edit']        = 'Edit Low Order Fee Total';
+$_['text_success']     = 'Başarılı: Düşük sipariş ücreti toplamını değiştirdiniz!';
+$_['text_edit']        = 'Düşük Sipariş Ücreti Toplamını Düzenle';
 
 // Entry
 $_['entry_total']      = 'Sipariş Toplamı';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
+$_['entry_fee']        = 'Ücret';
+$_['entry_tax_class']  = 'Vergi Sınıfı';
 $_['entry_status']     = 'Durum';
 $_['entry_sort_order'] = 'Sıralama';
 
 // Help
-$_['help_total']       = 'The checkout total the order must reach before this order total is deactivated.';
+$_['help_total']       = 'Bu sipariş toplamının devre dışı bırakılması için siparişin ulaşması gereken toplam tutar.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify low order fee total!';
+$_['error_permission'] = 'Uyarı: Düşük sipariş ücreti toplamını değiştirme yetkiniz yok!';
