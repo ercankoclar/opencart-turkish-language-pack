@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Order Update %s';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Your order has been updated to the following status:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
+$_['text_subject']      = '%s - Sipariş Güncellemesi %s';
+$_['text_order_id']     = 'Sipariş No:';
+$_['text_date_added']   = 'Eklenme Tarihi:';
+$_['text_order_status'] = 'Siparişiniz aşağıdaki duruma güncellendi:';
+$_['text_comment']      = 'Siparişinizle ilgili yorumlar:';
+$_['text_link']         = 'Siparişinizi görüntülemek için aşağıdaki bağlantıya tıklayın:';
 $_['text_footer']       = 'Herhangi bir sorunuz varsa lütfen bu e-postayı yanıtlayın.';
