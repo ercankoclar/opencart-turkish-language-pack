@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Transaction Report';
+$_['heading_title']         = 'Müşteri İşlemleri Raporu';
 
 // Text
 $_['text_extension']        = 'Eklentiler';
-$_['text_edit']             = 'Edit Customer Transaction Report';
-$_['text_success']          = 'Success: You have modified customer transaction report!';
+$_['text_edit']             = 'Müşteri İşlemleri Raporunu Düzenle';
+$_['text_success']          = 'Başarılı: Müşteri işlemleri raporunu değiştirdiniz!';
 $_['text_filter']           = 'Filtrele';
 
 // Column
-$_['column_customer']       = 'Customer Name';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_customer']       = 'Müşteri Adı';
+$_['column_email']          = 'E-posta';
+$_['column_customer_group'] = 'Müşteri Grubu';
 $_['column_status']         = 'Durum';
 $_['column_total']          = 'Toplam';
 $_['column_action']         = 'İşlem';
@@ -24,4 +24,4 @@ $_['entry_status']          = 'Durum';
 $_['entry_sort_order']      = 'Sıralama';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer transaction report!';
+$_['error_permission']      = 'Uyarı: Müşteri işlemleri raporunu değiştirme yetkiniz yok!';
