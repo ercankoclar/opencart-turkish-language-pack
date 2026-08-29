@@ -185,7 +185,7 @@ The language key remains unchanged while the displayed text is translated.
 Before installing the language pack:
 
 1. Back up your OpenCart installation.
-2. Verify that the language pack matches OpenCart 4.1.0.3.
+2. Verify that the language pack matches OpenCart 4.1.0.4.
 3. Copy the contents of the `public_html` directory to the OpenCart root
    directory.
 4. Add and enable Turkish from the OpenCart administration panel.
