@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Anti-Fraud';
+$_['heading_title']    = 'Dolandırıcılık Önleme';
 
 // Text
-$_['text_success']     = 'Success: You have modified anti-fraud!';
-$_['text_list']        = 'Anti-Fraud List';
+$_['text_success']     = 'Başarılı: Dolandırıcılık önleme ayarlarını değiştirdiniz!';
+$_['text_list']        = 'Dolandırıcılık Önleme Listesi';
 
 // Column
-$_['column_name']      = 'Anti-Fraud Name';
+$_['column_name']      = 'Dolandırıcılık Önleme Adı';
 $_['column_status']    = 'Durum';
 $_['column_action']    = 'İşlem';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify anti-fraud!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Uyarı: Dolandırıcılık önleme ayarlarını değiştirme yetkiniz yok!';
+$_['error_extension']  = 'Uyarı: Eklenti mevcut değil!';
