@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_subject']   = '%s - GDPR request has been processed!';
-$_['text_request']   = 'Account Deletion Request';
-$_['text_hello']     = 'Hello <strong>%s</strong>,';
-$_['text_user']      = 'User';
-$_['text_delete']    = 'Your GDPR data deletion request has now been completed.';
-$_['text_contact']   = 'For more information you can contact the store owner here:';
-$_['text_thanks']    = 'Thanks,';
+$_['text_subject']   = '%s - GDPR talebi işlendi!';
+$_['text_request']   = 'Hesap Silme Talebi';
+$_['text_hello']     = 'Merhaba <strong>%s</strong>,';
+$_['text_user']      = 'Kullanıcı';
+$_['text_delete']    = 'GDPR kapsamındaki veri silme talebiniz tamamlandı.';
+$_['text_contact']   = 'Daha fazla bilgi için mağaza sahibiyle buradan iletişime geçebilirsiniz:';
+$_['text_thanks']    = 'Teşekkürler,';
 
 // Button
-$_['button_contact'] = 'Contact Us';
+$_['button_contact'] = 'Bize Ulaşın';
