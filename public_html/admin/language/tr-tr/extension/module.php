@@ -3,22 +3,22 @@
 $_['heading_title']    = 'Modüller';
 
 // Text
-$_['text_success']     = 'Success: You have modified modules!';
-$_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_add']         = 'Add Module';
-$_['text_list']        = 'Module List';
+$_['text_success']     = 'Başarılı: Modülleri değiştirdiniz!';
+$_['text_layout']      = 'Bir modülü yükleyip yapılandırdıktan sonra <a href="%s" class="alert-link">buradan</a> bir yerleşime ekleyebilirsiniz!';
+$_['text_add']         = 'Modül Ekle';
+$_['text_list']        = 'Modül Listesi';
 
 // Column
-$_['column_name']      = 'Module Name';
+$_['column_name']      = 'Modül Adı';
 $_['column_status']    = 'Durum';
 $_['column_action']    = 'İşlem';
 
 // Entry
 $_['entry_code']       = 'Modül';
-$_['entry_name']       = 'Module Name';
+$_['entry_name']       = 'Modül Adı';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify modules!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_code']       = 'Extension required!';
+$_['error_permission'] = 'Uyarı: Modülleri değiştirme yetkiniz yok!';
+$_['error_extension']  = 'Uyarı: Eklenti mevcut değil!';
+$_['error_name']       = 'Modül Adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_code']       = 'Eklenti gereklidir!';
