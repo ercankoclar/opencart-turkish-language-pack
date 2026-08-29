@@ -3,4 +3,4 @@
 $_['heading_title']    = 'Ürün Başına';
 
 // Text
-$_['text_description'] = 'Per Item Shipping Rate';
+$_['text_description'] = 'Ürün Başına Kargo Ücreti';
