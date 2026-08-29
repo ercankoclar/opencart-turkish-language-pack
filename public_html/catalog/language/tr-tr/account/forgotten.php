@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']            = 'Şifrenizi mi Unuttunuz?';
-$_['heading_reset']            = 'Şifrenizi sıfırlayın';
+$_['heading_reset']            = 'Şifrenizi Sıfırlayın';
 
 // Text
 $_['text_account']             = 'Hesap';
@@ -10,7 +10,7 @@ $_['text_your_email']          = 'E-posta Adresiniz';
 $_['text_email']               = 'Hesabınızla ilişkili e-posta adresini girin. Şifre sıfırlama bağlantısının e-posta ile gönderilmesi için gönder düğmesine tıklayın.';
 $_['text_password']            = 'Kullanmak istediğiniz yeni şifreyi girin.';
 $_['text_sent']                = 'E-posta adresinize onay bağlantısını içeren bir e-posta gönderildi!';
-$_['text_reset']               = 'Success: Your password has been successfully updated.';
+$_['text_reset']               = 'Başarılı: Şifreniz başarıyla güncellendi.';
 
 // Entry
 $_['entry_email']              = 'E-posta Adresi';
