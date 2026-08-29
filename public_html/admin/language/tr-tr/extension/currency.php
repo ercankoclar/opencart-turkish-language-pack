@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Currency Rates';
+$_['heading_title']    = 'Para Birimi Kurları';
 
 // Text
-$_['text_success']     = 'Success: You have modified currencies rates!';
-$_['text_list']        = 'Currency Rate List';
+$_['text_success']     = 'Başarılı: Para birimi kurlarını değiştirdiniz!';
+$_['text_list']        = 'Para Birimi Kurları Listesi';
 
 // Column
-$_['column_name']      = 'Currency Rate Name';
+$_['column_name']      = 'Para Birimi Kuru Adı';
 $_['column_status']    = 'Durum';
 $_['column_action']    = 'İşlem';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify currencies rates!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Uyarı: Para birimi kurlarını değiştirme yetkiniz yok!';
+$_['error_extension']  = 'Uyarı: Eklenti mevcut değil!';
