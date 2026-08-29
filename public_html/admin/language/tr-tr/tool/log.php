@@ -3,11 +3,11 @@
 $_['heading_title']    = 'Hata Günlüğü';
 
 // Text
-$_['text_success']     = 'Success: You have successfully cleared your error log!';
-$_['text_list']        = 'Errors List';
+$_['text_success']     = 'Başarılı: Hata günlüğünüz başarıyla temizlendi!';
+$_['text_list']        = 'Hata Listesi';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to clear error log!';
-$_['error_file']       = 'Warning: %s file could not be found!';
-$_['error_size']       = 'Warning: Error log file %s is %s!';
-$_['error_empty']      = 'Warning: Log file %s is empty!';
+$_['error_permission'] = 'Uyarı: Hata günlüğünü temizleme yetkiniz yok!';
+$_['error_file']       = 'Uyarı: %s dosyası bulunamadı!';
+$_['error_size']       = 'Uyarı: Hata günlüğü dosyası %s, %s boyutunda!';
+$_['error_empty']      = 'Uyarı: %s günlük dosyası boş!';
