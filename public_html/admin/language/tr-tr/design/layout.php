@@ -3,36 +3,36 @@
 $_['heading_title']       = 'Yerleşimler';
 
 // Text
-$_['text_success']        = 'Success: You have modified layouts!';
-$_['text_list']           = 'Layout List';
-$_['text_add']            = 'Add Layout';
-$_['text_edit']           = 'Edit Layout';
+$_['text_success']        = 'Başarılı: Yerleşimleri değiştirdiniz!';
+$_['text_list']           = 'Yerleşim Listesi';
+$_['text_add']            = 'Yerleşim Ekle';
+$_['text_edit']           = 'Yerleşimi Düzenle';
 $_['text_remove']         = 'Kaldır';
-$_['text_route']          = 'Choose the store and routes to be used with this layout';
-$_['text_module']         = 'Choose the position of the modules';
+$_['text_route']          = 'Bu yerleşimle kullanılacak mağazayı ve rotaları seçin';
+$_['text_module']         = 'Modüllerin konumunu seçin';
 $_['text_default']        = 'Varsayılan';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_content_top']    = 'İçerik Üstü';
+$_['text_content_bottom'] = 'İçerik Altı';
+$_['text_column_left']    = 'Sol Sütun';
+$_['text_column_right']   = 'Sağ Sütun';
 
 // Column
-$_['column_name']         = 'Layout Name';
+$_['column_name']         = 'Yerleşim Adı';
 $_['column_action']       = 'İşlem';
 
 // Entry
-$_['entry_name']          = 'Layout Name';
+$_['entry_name']          = 'Yerleşim Adı';
 $_['entry_store']         = 'Mağaza';
 $_['entry_route']         = 'Rota';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify layouts!';
-$_['error_name']          = 'Layout Name must be between 3 and 64 characters!';
-$_['error_default']       = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
-$_['error_store']         = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
-$_['error_product']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
-$_['error_category']      = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_manufacturer']  = 'Warning: This layout cannot be deleted as it is currently assigned to %s manufacturers!';
-$_['error_information']   = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
-$_['error_article']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s article pages!';
-$_['error_topic']         = 'Warning: This layout cannot be deleted as it is currently assigned to %s topic pages!';
+$_['error_permission']    = 'Uyarı: Yerleşimleri değiştirme yetkiniz yok!';
+$_['error_name']          = 'Yerleşim Adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_default']       = 'Uyarı: Bu yerleşim varsayılan mağaza yerleşimi olarak atandığı için silinemez!';
+$_['error_store']         = 'Uyarı: Bu yerleşim %s mağazaya atanmış olduğu için silinemez!';
+$_['error_product']       = 'Uyarı: Bu yerleşim %s ürüne atanmış olduğu için silinemez!';
+$_['error_category']      = 'Uyarı: Bu yerleşim %s kategoriye atanmış olduğu için silinemez!';
+$_['error_manufacturer']  = 'Uyarı: Bu yerleşim %s üreticiye atanmış olduğu için silinemez!';
+$_['error_information']   = 'Uyarı: Bu yerleşim %s bilgi sayfasına atanmış olduğu için silinemez!';
+$_['error_article']       = 'Uyarı: Bu yerleşim %s makale sayfasına atanmış olduğu için silinemez!';
+$_['error_topic']         = 'Uyarı: Bu yerleşim %s konu sayfasına atanmış olduğu için silinemez!';
