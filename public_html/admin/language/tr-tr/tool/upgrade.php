@@ -1,29 +1,29 @@
 <?php
 // Heading
-$_['heading_title']        = 'Upgrade';
+$_['heading_title']        = 'Yükseltme';
 
 // Text
-$_['text_success']         = 'Success: You are using the latest version %s!';
-$_['text_upgrade']         = 'Check Latest Version';
-$_['text_information']     = 'Version Information';
-$_['text_current_version'] = 'Current Version';
-$_['text_latest_version']  = 'Latest Version';
-$_['text_date_added']      = 'Release Date';
-$_['text_change']          = 'Change Log';
-$_['text_status']          = 'Upgrade Status';
-$_['text_ready']           = 'Click the upgrade button to upgrade to the latest version...';
-$_['text_download']        = 'Downloading latest...';
-$_['text_install']         = 'Copying files...';
-$_['text_patch']           = 'Applying patches...';
+$_['text_success']         = 'Başarılı: %s sürümünün en son sürümünü kullanıyorsunuz!';
+$_['text_upgrade']         = 'En Son Sürümü Kontrol Et';
+$_['text_information']     = 'Sürüm Bilgileri';
+$_['text_current_version'] = 'Mevcut Sürüm';
+$_['text_latest_version']  = 'En Son Sürüm';
+$_['text_date_added']      = 'Yayın Tarihi';
+$_['text_change']          = 'Değişiklik Günlüğü';
+$_['text_status']          = 'Yükseltme Durumu';
+$_['text_ready']           = 'En son sürüme yükseltmek için yükseltme düğmesine tıklayın...';
+$_['text_download']        = 'En son sürüm indiriliyor...';
+$_['text_install']         = 'Dosyalar kopyalanıyor...';
+$_['text_patch']           = 'Yamalar uygulanıyor...';
 
 // Button
-$_['button_upgrade']       = 'Upgrade';
+$_['button_upgrade']       = 'Yükselt';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify upgrades!';
-$_['error_version']        = 'Version is lower than the current version!';
-$_['error_download']       = 'Upgrade could not be downloaded!';
-$_['error_file']           = 'Upgrade file could not be found!';
-$_['error_directory']      = 'Could not create directory %s!';
-$_['error_copy']           = 'Could not copy file %s to %s!';
-$_['error_unzip']          = 'Zip file could not be opened!';
+$_['error_permission']     = 'Uyarı: Yükseltmeleri değiştirme yetkiniz yok!';
+$_['error_version']        = 'Sürüm mevcut sürümden daha düşük!';
+$_['error_download']       = 'Yükseltme indirilemedi!';
+$_['error_file']           = 'Yükseltme dosyası bulunamadı!';
+$_['error_directory']      = '%s dizini oluşturulamadı!';
+$_['error_copy']           = '%s dosyası %s konumuna kopyalanamadı!';
+$_['error_unzip']          = 'ZIP dosyası açılamadı!';
