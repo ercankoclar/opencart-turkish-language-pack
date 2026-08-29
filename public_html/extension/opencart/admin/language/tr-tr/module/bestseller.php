@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']    = 'Best Sellers';
+$_['heading_title']    = 'Çok Satanlar';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified best sellers module!';
-$_['text_next']        = 'Success: You have modified %s best sellers out of %s!';
-$_['text_edit']        = 'Edit Best Sellers Module';
-$_['text_horizontal']  = 'Horizontal';
-$_['text_vertical']    = 'Vertical';
-$_['text_report']      = 'Reports';
+$_['text_success']     = 'Başarılı: Çok satanlar modülünü değiştirdiniz!';
+$_['text_next']        = 'Başarılı: %s / %s çok satan ürün listelendi!';
+$_['text_edit']        = 'Çok Satanlar Modülünü Düzenle';
+$_['text_horizontal']  = 'Yatay';
+$_['text_vertical']    = 'Dikey';
+$_['text_report']      = 'Raporlar';
 
 // Column
-$_['column_product']   = 'Product';
+$_['column_product']   = 'Ürün';
 $_['column_total']     = 'Toplam';
 
 // Entry
-$_['entry_name']       = 'Module Name';
-$_['entry_axis']       = 'Axis';
+$_['entry_name']       = 'Modül Adı';
+$_['entry_axis']       = 'Yön';
 $_['entry_limit']      = 'Limit';
-$_['entry_width']      = 'Image Width';
-$_['entry_height']     = 'Image Height';
+$_['entry_width']      = 'Görsel Genişliği';
+$_['entry_height']     = 'Görsel Yüksekliği';
 $_['entry_status']     = 'Durum';
 
 // Button
-$_['button_sync']      = 'Generate Best Sellers List';
+$_['button_sync']      = 'Çok Satanlar Listesi Oluştur';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify best sellers module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_width']      = 'Width required!';
-$_['error_height']     = 'Height required!';
+$_['error_permission'] = 'Uyarı: Çok satanlar modülünü değiştirme yetkiniz yok!';
+$_['error_name']       = 'Modül Adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_width']      = 'Genişlik gereklidir!';
+$_['error_height']     = 'Yükseklik gereklidir!';
