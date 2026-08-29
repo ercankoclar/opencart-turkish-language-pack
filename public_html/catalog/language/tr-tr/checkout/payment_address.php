@@ -3,31 +3,31 @@
 $_['heading_title']         = 'Fatura Adresi';
 
 // Text
-$_['text_address_new']      = 'I want to use a new address';
-$_['text_address_existing'] = 'I want to use an existing address';
-$_['text_success']          = 'Success: You have changed payment address!';
+$_['text_address_new']      = 'Yeni bir adres kullanmak istiyorum';
+$_['text_address_existing'] = 'Mevcut bir adresi kullanmak istiyorum';
+$_['text_success']          = 'Başarılı: Fatura adresini değiştirdiniz!';
 
 // Entry
-$_['entry_address']         = 'Choose Address';
+$_['entry_address']         = 'Adres Seç';
 $_['entry_firstname']       = 'Ad';
 $_['entry_lastname']        = 'Soyad';
 $_['entry_company']         = 'Şirket';
 $_['entry_address_1']       = 'Adres 1';
 $_['entry_address_2']       = 'Adres 2';
-$_['entry_postcode']        = 'Post Code';
+$_['entry_postcode']        = 'Posta Kodu';
 $_['entry_city']            = 'Şehir';
 $_['entry_country']         = 'Ülke';
-$_['entry_zone']            = 'Region / State';
+$_['entry_zone']            = 'Bölge / İl';
 
 // Error
-$_['error_customer']        = 'Customer required!';
-$_['error_address']         = 'Payment address could not be found!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']       = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']            = 'City must be between 2 and 128 characters!';
-$_['error_postcode']        = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']         = 'Please select a country!';
-$_['error_zone']            = 'Please select a region / state!';
-$_['error_custom_field']    = '%s required!';
-$_['error_regex']           = '%s is not a valid input!';
+$_['error_customer']        = 'Müşteri gereklidir!';
+$_['error_address']         = 'Fatura adresi bulunamadı!';
+$_['error_firstname']       = 'Ad 1 ile 32 karakter arasında olmalıdır!';
+$_['error_lastname']        = 'Soyad 1 ile 32 karakter arasında olmalıdır!';
+$_['error_address_1']       = 'Adres 1, 3 ile 128 karakter arasında olmalıdır!';
+$_['error_city']            = 'Şehir 2 ile 128 karakter arasında olmalıdır!';
+$_['error_postcode']        = 'Posta Kodu 2 ile 10 karakter arasında olmalıdır!';
+$_['error_country']         = 'Lütfen bir ülke seçin!';
+$_['error_zone']            = 'Lütfen bir bölge / il seçin!';
+$_['error_custom_field']    = '%s gereklidir!';
+$_['error_regex']           = '%s geçerli bir giriş değil!';
