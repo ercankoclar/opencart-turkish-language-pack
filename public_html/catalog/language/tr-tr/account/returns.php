@@ -34,16 +34,16 @@ $_['column_model']       = 'Model';
 $_['column_quantity']    = 'Miktar';
 $_['column_opened']      = 'Açıldı';
 $_['column_comment']     = 'Açıklama';
-$_['column_reason']      = 'Reason';
+$_['column_reason']      = 'İade Nedeni';
 $_['column_action']      = 'İşlem';
 
 // Entry
 $_['entry_order_id']     = 'Sipariş No';
 $_['entry_date_ordered'] = 'Sipariş Tarihi';
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Telephone';
+$_['entry_firstname']    = 'Ad';
+$_['entry_lastname']     = 'Soyad';
+$_['entry_email']        = 'E-posta';
+$_['entry_telephone']    = 'Telefon';
 $_['entry_product']      = 'Ürün Adı';
 $_['entry_model']        = 'Ürün Kodu';
 $_['entry_quantity']     = 'Miktar';
