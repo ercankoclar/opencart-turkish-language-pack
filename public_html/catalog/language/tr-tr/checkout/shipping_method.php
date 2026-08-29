@@ -3,16 +3,16 @@
 $_['heading_title']          = 'Teslimat Yöntemi';
 
 // Text
-$_['text_shipping_method']   = 'Shipping method options';
-$_['text_shipping']          = 'Please select the preferred shipping method to use for this order.';
-$_['text_success']           = 'Success: You have changed shipping method!';
+$_['text_shipping_method']   = 'Teslimat yöntemi seçenekleri';
+$_['text_shipping']          = 'Lütfen bu sipariş için kullanmak istediğiniz teslimat yöntemini seçin.';
+$_['text_success']           = 'Başarılı: Teslimat yöntemini değiştirdiniz!';
 
 // Entry
-$_['entry_shipping_method']  = 'Choose shipping method...';
+$_['entry_shipping_method']  = 'Teslimat yöntemi seçin...';
 
 // Error
-$_['error_customer']         = 'Customer required!';
-$_['error_payment_address']  = 'Payment address required!';
-$_['error_shipping_address'] = 'Shipping address required!';
-$_['error_shipping_method']  = 'Shipping method required!';
-$_['error_no_shipping']      = 'No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_customer']         = 'Müşteri gereklidir!';
+$_['error_payment_address']  = 'Fatura adresi gereklidir!';
+$_['error_shipping_address'] = 'Teslimat adresi gereklidir!';
+$_['error_shipping_method']  = 'Teslimat yöntemi gereklidir!';
+$_['error_no_shipping']      = 'Kullanılabilir teslimat seçeneği bulunmuyor. Yardım için lütfen <a href="%s">bizimle iletişime geçin</a>!';
