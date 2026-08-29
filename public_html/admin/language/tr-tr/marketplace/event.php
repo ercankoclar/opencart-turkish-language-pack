@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Events';
+$_['heading_title']     = 'Etkinlikler';
 
 // Text
-$_['text_success']      = 'Success: You have modified events!';
-$_['text_list']         = 'Event List';
-$_['text_event']        = 'Events are used by extensions to override the default functionality of your store. If you have issues you can disable or enable the events here.';
-$_['text_info']         = 'Event Information';
+$_['text_success']      = 'Başarılı: Etkinlikleri değiştirdiniz!';
+$_['text_list']         = 'Etkinlik Listesi';
+$_['text_event']        = 'Etkinlikler, mağazanızın varsayılan işlevlerini geçersiz kılmak için eklentiler tarafından kullanılır. Sorun yaşıyorsanız etkinlikleri buradan devre dışı bırakabilir veya etkinleştirebilirsiniz.';
+$_['text_info']         = 'Etkinlik Bilgileri';
 
 // Column
-$_['column_code']       = 'Event Code';
+$_['column_code']       = 'Etkinlik Kodu';
 $_['column_sort_order'] = 'Sıralama';
 $_['column_action']     = 'İşlem';
 
 // Entry
 $_['entry_description'] = 'Açıklama';
-$_['entry_trigger']     = 'Trigger';
+$_['entry_trigger']     = 'Tetikleyici';
 $_['entry_action']      = 'İşlem';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify the events!';
+$_['error_permission']  = 'Uyarı: Etkinlikleri değiştirme yetkiniz yok!';
