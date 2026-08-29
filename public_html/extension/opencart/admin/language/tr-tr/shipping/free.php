@@ -4,17 +4,17 @@ $_['heading_title']    = 'Ücretsiz Kargo';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified free shipping!';
-$_['text_edit']        = 'Edit Free Shipping';
+$_['text_success']     = 'Başarılı: Ücretsiz kargo ayarlarını değiştirdiniz!';
+$_['text_edit']        = 'Ücretsiz Kargoyu Düzenle';
 
 // Entry
-$_['entry_total']      = 'Sub-Total';
+$_['entry_total']      = 'Ara Toplam';
 $_['entry_geo_zone']   = 'Coğrafi Bölge';
 $_['entry_status']     = 'Durum';
 $_['entry_sort_order'] = 'Sıralama';
 
 // Help
-$_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
+$_['help_total']       = 'Ücretsiz kargo modülünün kullanılabilir olması için gereken ara toplam tutarı.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify free shipping!';
+$_['error_permission'] = 'Uyarı: Ücretsiz kargo ayarlarını değiştirme yetkiniz yok!';
