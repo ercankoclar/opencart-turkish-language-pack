@@ -3,20 +3,20 @@
 $_['heading_title']    = 'İade Durumları';
 
 // Text
-$_['text_success']     = 'Success: You have modified return statuses!';
-$_['text_list']        = 'Return Status List';
-$_['text_add']         = 'Add Return Status';
-$_['text_edit']        = 'Edit Return Status';
+$_['text_success']     = 'Başarılı: İade durumlarını değiştirdiniz!';
+$_['text_list']        = 'İade Durumu Listesi';
+$_['text_add']         = 'İade Durumu Ekle';
+$_['text_edit']        = 'İade Durumunu Düzenle';
 
 // Column
-$_['column_name']      = 'Return Status Name';
+$_['column_name']      = 'İade Durumu Adı';
 $_['column_action']    = 'İşlem';
 
 // Entry
-$_['entry_name']       = 'Return Status Name';
+$_['entry_name']       = 'İade Durumu Adı';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return statuses!';
-$_['error_name']       = 'Return Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This return status cannot be deleted as it is currently assigned as the default return status!';
-$_['error_return']     = 'Warning: This return status cannot be deleted as it is currently assigned to %s returns!';
+$_['error_permission'] = 'Uyarı: İade durumlarını değiştirme yetkiniz yok!';
+$_['error_name']       = 'İade Durumu Adı 3 ile 32 karakter arasında olmalıdır!';
+$_['error_default']    = 'Uyarı: Bu iade durumu varsayılan iade durumu olarak atandığı için silinemez!';
+$_['error_return']     = 'Uyarı: Bu iade durumu %s iadeye atanmış olduğu için silinemez!';
