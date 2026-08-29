@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Eklentiler';
 
 // Text
-$_['text_success']  = 'Success: You have modified extensions!';
-$_['text_list']     = 'Extension List';
-$_['text_type']     = 'Choose the extension type';
+$_['text_success']  = 'Başarılı: Eklentileri değiştirdiniz!';
+$_['text_list']     = 'Eklenti Listesi';
+$_['text_type']     = 'Eklenti türünü seçin';
 $_['text_filter']   = 'Filtrele';
