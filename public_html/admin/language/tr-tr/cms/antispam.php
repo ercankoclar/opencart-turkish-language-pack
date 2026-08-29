@@ -3,10 +3,10 @@
 $_['heading_title']        = 'Anti-Spam';
 
 // Text
-$_['text_success']         = 'Success: You have modified anti-spam!';
-$_['text_list']            = 'Anti-Spam List';
-$_['text_add']             = 'Add Anti-Spam';
-$_['text_edit']            = 'Edit Anti-Spam';
+$_['text_success']         = 'Başarılı: Anti-Spam i değiştirdiniz!';
+$_['text_list']            = 'Anti-Spam Listesi';
+$_['text_add']             = 'Anti-Spam Ekle';
+$_['text_edit']            = 'Anti-Spam ı Düzenle';
 
 // Column
 $_['column_keyword']       = 'Anahtar Kelime';
@@ -17,6 +17,6 @@ $_['entry_keyword']        = 'Anahtar Kelime';
 
 // Error
 $_['error_warning']        = 'Uyarı: Lütfen formu hatalar açısından dikkatlice kontrol edin!';
-$_['error_permission']     = 'Warning: You do not have permission to modify anti-spam!';
-$_['error_keyword']        = 'Keyword must be between 1 and 64 characters!';
-$_['error_keyword_exists'] = 'Keyword must be unique!';
+$_['error_permission']     = 'Uyarı: Anti-Spam ı değiştirme yetkiniz yok!';
+$_['error_keyword']        = 'Anahtar kelime 1 ile 64 karakter arasında olmalıdır!';
+$_['error_keyword_exists'] = 'Anahtar kelime benzersiz olmalıdır!';
