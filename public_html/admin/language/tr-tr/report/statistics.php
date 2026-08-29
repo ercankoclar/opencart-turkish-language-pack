@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']         = 'Statistics';
+$_['heading_title']         = 'İstatistikler';
 
 // Text
-$_['text_success']          = 'Success: You have modified statistics!';
-$_['text_list']             = 'Statistics List';
-$_['text_order_sale']       = 'Order Sales';
-$_['text_order_processing'] = 'Orders Processing';
-$_['text_order_complete']   = 'Orders Complete';
-$_['text_order_other']      = 'Orders Other';
-$_['text_returns']          = 'Returns';
-$_['text_customer']         = 'Customers Waiting for Approval';
-$_['text_affiliate']        = 'Affiliates Waiting for Approval';
-$_['text_product']          = 'Out of stock products';
-$_['text_review']           = 'Pending Reviews';
+$_['text_success']          = 'Başarılı: İstatistikleri değiştirdiniz!';
+$_['text_list']             = 'İstatistik Listesi';
+$_['text_order_sale']       = 'Sipariş Satışları';
+$_['text_order_processing'] = 'İşlenmekte Olan Siparişler';
+$_['text_order_complete']   = 'Tamamlanan Siparişler';
+$_['text_order_other']      = 'Diğer Siparişler';
+$_['text_returns']          = 'İadeler';
+$_['text_customer']         = 'Onay Bekleyen Müşteriler';
+$_['text_affiliate']        = 'Onay Bekleyen İş Ortakları';
+$_['text_product']          = 'Stokta Olmayan Ürünler';
+$_['text_review']           = 'Bekleyen Değerlendirmeler';
 
 // Column
-$_['column_name']           = 'Statistics Name';
-$_['column_value']          = 'Value';
+$_['column_name']           = 'İstatistik Adı';
+$_['column_value']          = 'Değer';
 $_['column_action']         = 'İşlem';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify statistics!';
+$_['error_permission']      = 'Uyarı: İstatistikleri değiştirme yetkiniz yok!';
