@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']          = 'Developer Options';
+$_['heading_title']          = 'Geliştirici Seçenekleri';
 
 // Text
-$_['text_developer_success'] = 'Success: You have modified developer settings!';
-$_['text_cache_success']     = 'Success: You have cleared the cache!';
-$_['text_theme_success']     = 'Success: You have cleared the theme cache!';
-$_['text_sass_success']      = 'Success: You have cleared the SASS cache!';
-$_['text_theme']             = 'Theme';
+$_['text_developer_success'] = 'Başarılı: Geliştirici ayarlarını değiştirdiniz!';
+$_['text_cache_success']     = 'Başarılı: Önbelleği temizlediniz!';
+$_['text_theme_success']     = 'Başarılı: Tema önbelleğini temizlediniz!';
+$_['text_sass_success']      = 'Başarılı: SASS önbelleğini temizlediniz!';
+$_['text_theme']             = 'Tema';
 $_['text_sass']              = 'SASS';
-$_['text_cache']             = 'Cache';
+$_['text_cache']             = 'Önbellek';
 
 // Column
-$_['column_component']       = 'Component';
+$_['column_component']       = 'Bileşen';
 $_['column_action']          = 'İşlem';
 
 // Entry
-$_['entry_cache']            = 'Cache';
+$_['entry_cache']            = 'Önbellek';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify developer settings!';
+$_['error_permission']       = 'Uyarı: Geliştirici ayarlarını değiştirme yetkiniz yok!';
