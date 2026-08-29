@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']      = 'Cash On Delivery';
+$_['heading_title']      = 'Kapıda Ödeme';
 
 // Text
 $_['text_extension']     = 'Eklentiler';
-$_['text_success']       = 'Success: You have modified cash on delivery payment module!';
-$_['text_edit']          = 'Edit Cash On Delivery';
+$_['text_success']       = 'Başarılı: Kapıda ödeme modülünü değiştirdiniz!';
+$_['text_edit']          = 'Kapıda Ödeme Ayarlarını Düzenle';
 
 // Entry
 $_['entry_order_status'] = 'Sipariş Durumu';
@@ -14,4 +14,4 @@ $_['entry_status']       = 'Durum';
 $_['entry_sort_order']   = 'Sıralama';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment cash on delivery!';
+$_['error_permission']   = 'Uyarı: Kapıda ödeme yöntemini değiştirme yetkiniz yok!';
