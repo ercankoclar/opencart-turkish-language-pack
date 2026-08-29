@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Latest Orders';
+$_['heading_title']     = 'Son Siparişler';
 
 // Text
 $_['text_extension']    = 'Eklentiler';
-$_['text_success']      = 'Success: You have modified dashboard recent orders!';
-$_['text_edit']         = 'Edit Dashboard Recent Orders';
+$_['text_success']      = 'Başarılı: Kontrol paneli son siparişler bölümünü değiştirdiniz!';
+$_['text_edit']         = 'Kontrol Paneli Son Siparişler Bölümünü Düzenle';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
+$_['column_order_id']   = 'Sipariş No';
+$_['column_customer']   = 'Müşteri';
 $_['column_status']     = 'Durum';
-$_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_total']      = 'Toplam';
+$_['column_date_added'] = 'Eklenme Tarihi';
+$_['column_action']     = 'İşlem';
 
 // Entry
 $_['entry_status']      = 'Durum';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_width']       = 'Width';
+$_['entry_sort_order']  = 'Sıralama';
+$_['entry_width']       = 'Genişlik';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboard recent orders!';
+$_['error_permission']  = 'Uyarı: Kontrol paneli son siparişler bölümünü değiştirme yetkiniz yok!';
