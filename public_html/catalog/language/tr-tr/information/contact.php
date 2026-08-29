@@ -3,24 +3,24 @@
 $_['heading_title']  = 'Bize Ulaşın';
 
 // Text
-$_['text_location']  = 'Our Locations';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
+$_['text_location']  = 'Konumlarımız';
+$_['text_store']     = 'Mağazalarımız';
+$_['text_contact']   = 'İletişim Formu';
 $_['text_address']   = 'Adres';
 $_['text_telephone'] = 'Telefon';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_message']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_open']      = 'Çalışma Saatleri';
+$_['text_comment']   = 'Yorumlar';
+$_['text_message']   = '<p>Mesajınız başarıyla mağaza sahibine gönderildi!</p>';
 
 // Entry
-$_['entry_name']     = 'Your Name';
+$_['entry_name']     = 'Adınız';
 $_['entry_email']    = 'E-posta Adresi';
-$_['entry_enquiry']  = 'Enquiry';
+$_['entry_enquiry']  = 'Mesajınız';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = 'Mesaj %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$_['error_name']     = 'Ad 3 ile 32 karakter arasında olmalıdır!';
+$_['error_email']    = 'E-posta Adresi geçerli görünmüyor!';
+$_['error_enquiry']  = 'Mesaj 10 ile 3000 karakter arasında olmalıdır!';
