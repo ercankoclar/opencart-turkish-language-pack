@@ -3,15 +3,15 @@
 $_['heading_title']    = 'Diller';
 
 // Text
-$_['text_success']     = 'Success: You have modified languages!';
-$_['text_list']        = 'Language List';
+$_['text_success']     = 'Başarılı: Dilleri değiştirdiniz!';
+$_['text_list']        = 'Dil Listesi';
 
 // Column
-$_['column_name']      = 'Language Name';
+$_['column_name']      = 'Dil Adı';
 $_['column_status']    = 'Durum';
 $_['column_action']    = 'İşlem';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify languages!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
-$_['error_default']    = 'Warning: This extension cannot be uninstalled as it is currently assigned as the administration language!';
+$_['error_permission'] = 'Uyarı: Dilleri değiştirme yetkiniz yok!';
+$_['error_extension']  = 'Uyarı: Eklenti mevcut değil!';
+$_['error_default']    = 'Uyarı: Bu eklenti yönetim dili olarak atanmış olduğu için kaldırılamaz!';
