@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_subject'] = '%s - Your Account has been activated!';
-$_['text_welcome'] = 'Welcome and thank you for registering at %s!';
-$_['text_login']   = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service'] = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']  = 'Thanks,';
+$_['text_subject'] = '%s - Hesabınız etkinleştirildi!';
+$_['text_welcome'] = 'Hoş geldiniz ve %s sitesine kayıt olduğunuz için teşekkür ederiz!';
+$_['text_login']   = 'Hesabınız artık oluşturuldu. E-posta adresinizi ve şifrenizi kullanarak web sitemizi ziyaret ederek veya aşağıdaki URL üzerinden giriş yapabilirsiniz:';
+$_['text_service'] = 'Giriş yaptıktan sonra geçmiş siparişlerinizi inceleme, faturaları yazdırma ve hesap bilgilerinizi düzenleme gibi diğer hizmetlere erişebilirsiniz.';
+$_['text_thanks']  = 'Teşekkürler,';
 
 // Button
-$_['button_login'] = 'Login';
+$_['button_login'] = 'Giriş Yap';
