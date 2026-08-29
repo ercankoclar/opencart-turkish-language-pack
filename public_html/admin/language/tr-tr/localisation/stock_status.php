@@ -3,19 +3,19 @@
 $_['heading_title']    = 'Stok Durumları';
 
 // Text
-$_['text_success']     = 'Success: You have modified stock statuses!';
-$_['text_list']        = 'Stock Status List';
-$_['text_add']         = 'Add Stock Status';
-$_['text_edit']        = 'Edit Stock Status';
+$_['text_success']     = 'Başarılı: Stok durumlarını değiştirdiniz!';
+$_['text_list']        = 'Stok Durumu Listesi';
+$_['text_add']         = 'Stok Durumu Ekle';
+$_['text_edit']        = 'Stok Durumunu Düzenle';
 
 // Column
-$_['column_name']      = 'Stock Status Name';
+$_['column_name']      = 'Stok Durumu Adı';
 $_['column_action']    = 'İşlem';
 
 // Entry
-$_['entry_name']       = 'Stock Status Name';
+$_['entry_name']       = 'Stok Durumu Adı';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify stock statuses!';
-$_['error_name']       = 'Stock Status Name must be between 3 and 32 characters!';
-$_['error_product']    = 'Warning: This stock status cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Uyarı: Stok durumlarını değiştirme yetkiniz yok!';
+$_['error_name']       = 'Stok Durumu Adı 3 ile 32 karakter arasında olmalıdır!';
+$_['error_product']    = 'Uyarı: Bu stok durumu %s ürüne atanmış olduğu için silinemez!';
