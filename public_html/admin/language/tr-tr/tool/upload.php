@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']      = 'Uploads';
+$_['heading_title']      = 'Yüklemeler';
 
 // Text
-$_['text_success']       = 'Success: You have modified uploads!';
-$_['text_list']          = 'Upload List';
+$_['text_success']       = 'Başarılı: Yüklemeleri değiştirdiniz!';
+$_['text_list']          = 'Yükleme Listesi';
 $_['text_filter']        = 'Filtrele';
 
 // Column
-$_['column_name']        = 'Upload Name';
-$_['column_code']        = 'Code';
+$_['column_name']        = 'Yükleme Adı';
+$_['column_code']        = 'Kod';
 $_['column_date_added']  = 'Eklenme Tarihi';
 $_['column_action']      = 'İşlem';
 
 // Entry
-$_['entry_name']         = 'Upload Name';
-$_['entry_filename']     = 'Filename';
-$_['entry_date_from']    = 'Date From';
-$_['entry_date_to']      = 'Date To';
+$_['entry_name']         = 'Yükleme Adı';
+$_['entry_filename']     = 'Dosya Adı';
+$_['entry_date_from']    = 'Başlangıç Tarihi';
+$_['entry_date_to']      = 'Bitiş Tarihi';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify uploads!';
-$_['error_not_found']    = 'Error: Could not find file %s !';
-$_['error_headers_sent'] = 'Error: Headers already sent out!';
-$_['error_upload']       = 'File could not be uploaded!';
-$_['error_filename']     = 'Filename must be between 3 and 128 characters!';
-$_['error_file_type']    = 'Invalid file type!';
+$_['error_permission']   = 'Uyarı: Yüklemeleri değiştirme yetkiniz yok!';
+$_['error_not_found']    = 'Hata: %s dosyası bulunamadı!';
+$_['error_headers_sent'] = 'Hata: Üstbilgiler zaten gönderildi!';
+$_['error_upload']       = 'Dosya yüklenemedi!';
+$_['error_filename']     = 'Dosya adı 3 ile 128 karakter arasında olmalıdır!';
+$_['error_file_type']    = 'Geçersiz dosya türü!';
