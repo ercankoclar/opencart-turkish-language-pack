@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'European Central Bank Currency Converter';
+$_['heading_title']    = 'Avrupa Merkez Bankası Para Birimi Dönüştürücü';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified European Central Bank Currency Converter!';
-$_['text_edit']        = 'Edit European Central Bank';
-$_['text_support']     = 'This extension requires the EUR currency.';
+$_['text_success']     = 'Başarılı: Avrupa Merkez Bankası Para Birimi Dönüştürücüsünü değiştirdiniz!';
+$_['text_edit']        = 'Avrupa Merkez Bankası Ayarlarını Düzenle';
+$_['text_support']     = 'Bu eklenti EUR para birimini gerektirir.';
 
 // Entry
 $_['entry_status']     = 'Durum';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify European Central Bank Currency Converter!';
+$_['error_permission'] = 'Uyarı: Avrupa Merkez Bankası Para Birimi Dönüştürücüsünü değiştirme yetkiniz yok!';
