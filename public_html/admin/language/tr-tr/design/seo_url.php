@@ -3,17 +3,17 @@
 $_['heading_title']           = 'SEO URL';
 
 // Text
-$_['text_success']            = 'Success: You have modified SEO URL!';
-$_['text_list']               = 'SEO URL List';
-$_['text_add']                = 'Add SEO URL';
-$_['text_edit']               = 'Edit SEO URL';
+$_['text_success']            = 'Başarılı: SEO URL adresini değiştirdiniz!';
+$_['text_list']               = 'SEO URL Listesi';
+$_['text_add']                = 'SEO URL Ekle';
+$_['text_edit']               = 'SEO URL Düzenle';
 $_['text_filter']             = 'Filtrele';
 $_['text_default']            = 'Varsayılan';
 
 // Column
-$_['column_key']              = 'Key';
-$_['column_value']            = 'Value';
-$_['column_keyword']          = 'Keyword';
+$_['column_key']              = 'Anahtar';
+$_['column_value']            = 'Değer';
+$_['column_keyword']          = 'Anahtar Kelime';
 $_['column_sort_order']       = 'Sıralama';
 $_['column_store']            = 'Mağaza';
 $_['column_language']         = 'Dil';
@@ -22,21 +22,21 @@ $_['column_action']           = 'İşlem';
 // Entry
 $_['entry_store']             = 'Mağaza';
 $_['entry_language']          = 'Dil';
-$_['entry_key']               = 'Key';
-$_['entry_value']             = 'Value';
-$_['entry_keyword']           = 'Keyword';
+$_['entry_key']               = 'Anahtar';
+$_['entry_value']             = 'Değer';
+$_['entry_keyword']           = 'Anahtar Kelime';
 $_['entry_sort_order']        = 'Sıralama';
 
 // Help
-$_['help_keyword']            = 'Make sure you only use characters in the a-z or 0-9 use and - or _ for spaces. Use / for categories.';
-$_['help_sort_order']         = 'The sort order of the keywords in the URL.';
+$_['help_keyword']            = 'Yalnızca a-z veya 0-9 karakterlerini kullanın ve boşluklar için - veya _ kullanın. Kategoriler için / kullanın.';
+$_['help_sort_order']         = 'URL içindeki anahtar kelimelerin sıralaması.';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify SEO URL!';
-$_['error_exists']            = 'Warning: Combination of store, language key, value, keyword already exists!';
-$_['error_key']               = 'Key must be between 1 and 64 characters!';
-$_['error_value']             = 'Value must be between 1 and 255 characters!';
-$_['error_value_exists']      = 'Value is already in use!';
-$_['error_keyword']           = 'Keyword must be between 1 and 64 characters!';
-$_['error_keyword_exists']    = 'Keyword is already in use!';
-$_['error_keyword_character'] = 'Keyword can only use characters a-z, 0-9, - and _!';
+$_['error_permission']        = 'Uyarı: SEO URL adresini değiştirme yetkiniz yok!';
+$_['error_exists']            = 'Uyarı: Mağaza, dil, anahtar, değer ve anahtar kelime birleşimi zaten mevcut!';
+$_['error_key']               = 'Anahtar 1 ile 64 karakter arasında olmalıdır!';
+$_['error_value']             = 'Değer 1 ile 255 karakter arasında olmalıdır!';
+$_['error_value_exists']      = 'Değer zaten kullanılıyor!';
+$_['error_keyword']           = 'Anahtar Kelime 1 ile 64 karakter arasında olmalıdır!';
+$_['error_keyword_exists']    = 'Anahtar Kelime zaten kullanılıyor!';
+$_['error_keyword_character'] = 'Anahtar Kelime yalnızca a-z, 0-9, - ve _ karakterlerini kullanabilir!';
