@@ -3,6 +3,6 @@
 $_['heading_title'] = 'Raporlar';
 
 // Text
-$_['text_success']  = 'Success: You have modified reports!';
-$_['text_type']     = 'Choose the report type';
+$_['text_success']  = 'Başarılı: Raporları değiştirdiniz!';
+$_['text_type']     = 'Rapor türünü seçin';
 $_['text_filter']   = 'Filtrele';
