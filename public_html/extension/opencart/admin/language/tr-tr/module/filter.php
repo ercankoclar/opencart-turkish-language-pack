@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Filter';
+$_['heading_title']    = 'Filtre';
 
 // Text
 $_['text_extension']   = 'Eklentiler';
-$_['text_success']     = 'Success: You have modified filter module!';
-$_['text_edit']        = 'Edit Filter Module';
+$_['text_success']     = 'Başarılı: Filtre modülünü değiştirdiniz!';
+$_['text_edit']        = 'Filtre Modülünü Düzenle';
 
 // Entry
 $_['entry_status']     = 'Durum';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify filter module!';
+$_['error_permission'] = 'Uyarı: Filtre modülünü değiştirme yetkiniz yok!';
