@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Kupon Kodunu Kullan';
 
 // Text
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_success']  = 'Başarılı: Kupon indiriminiz uygulandı!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Kupon kodunuzu buraya girin';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_status']  = 'Warning: Coupons are not enabled on this store!';
+$_['error_coupon']  = 'Uyarı: Kupon geçersiz, süresi dolmuş veya kullanım limitine ulaşılmış!';
+$_['error_status']  = 'Uyarı: Bu mağazada kuponlar etkin değil!';
