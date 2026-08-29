@@ -1,0 +1,40 @@
+<?php
+// Heading
+$_['heading_title']           = 'Topics';
+
+// Text
+$_['text_success']            = 'Success: You have modified topics!';
+$_['text_list']               = 'Topic List';
+$_['text_add']                = 'Add Topic';
+$_['text_edit']               = 'Edit Topic';
+$_['text_default']            = 'Varsayılan';
+$_['text_general']            = 'General';
+$_['text_meta']               = 'Meta Tags';
+$_['text_keyword']            = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+
+// Column
+$_['column_name']             = 'Topic Name';
+$_['column_sort_order']       = 'Sıralama';
+$_['column_action']           = 'İşlem';
+
+// Entry
+$_['entry_image']             = 'Görsel';
+$_['entry_name']              = 'Topic Name';
+$_['entry_description']       = 'Açıklama';
+$_['entry_meta_title']        = 'Meta Tag Title';
+$_['entry_meta_keyword']      = 'Meta Tag Keywords';
+$_['entry_meta_description']  = 'Meta Tag Description';
+$_['entry_store']             = 'Mağazalar';
+$_['entry_sort_order']        = 'Sıralama';
+$_['entry_status']            = 'Durum';
+$_['entry_keyword']           = 'Anahtar Kelime';
+$_['entry_layout']            = 'Layout Override';
+
+// Error
+$_['error_warning']           = 'Uyarı: Lütfen formu hatalar açısından dikkatlice kontrol edin!';
+$_['error_permission']        = 'Warning: You do not have permission to modify topics!';
+$_['error_name']              = 'Topic Name must be between 1 and 255 characters!';
+$_['error_meta_title']        = 'Meta Title must be greater than 1 and less than 255 characters!';
+$_['error_keyword']           = 'SEO URL must be between 1 and 64 characters!';
+$_['error_keyword_exists']    = 'SEO URL must be unique!';
+$_['error_keyword_character'] = 'Keyword can only use characters a-z, 0-9, - and _!';
