@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']      = 'Backup &amp; Restore';
+$_['heading_title']      = 'Yedekleme ve Geri Yükleme';
 
 // Text
-$_['text_success']       = 'Success: You have successfully modified your database!';
-$_['text_progress']      = 'Backup Progress';
-$_['text_backup']        = 'Backing up table %s records %s to %s records';
-$_['text_restore']       = 'Restoring %s of %s';
-$_['text_option']        = 'Backup Options';
-$_['text_history']       = 'Backup History';
-$_['text_import']        = 'For large backup files it is better to upload the SQL file via FTP to the <strong>~/storage/backup/</strong> directory.';
+$_['text_success']       = 'Başarılı: Veritabanınızı başarıyla değiştirdiniz!';
+$_['text_progress']      = 'Yedekleme İlerlemesi';
+$_['text_backup']        = '%s tablosundaki %s - %s arasındaki kayıtlar yedekleniyor';
+$_['text_restore']       = '%s / %s geri yükleniyor';
+$_['text_option']        = 'Yedekleme Seçenekleri';
+$_['text_history']       = 'Yedekleme Geçmişi';
+$_['text_import']        = 'Büyük yedekleme dosyaları için SQL dosyasını FTP üzerinden <strong>~/storage/backup/</strong> dizinine yüklemek daha iyidir.';
 
 // Column
-$_['column_filename']    = 'Filename';
-$_['column_size']        = 'Size';
+$_['column_filename']    = 'Dosya Adı';
+$_['column_size']        = 'Boyut';
 $_['column_date_added']  = 'Eklenme Tarihi';
 $_['column_action']      = 'İşlem';
 
 // Entry
-$_['entry_progress']     = 'Progress';
+$_['entry_progress']     = 'İlerleme';
 $_['entry_export']       = 'Dışa Aktar';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Backup &amp; Restore!';
-$_['error_table']        = 'Table %s is not in the allowed list!';
-$_['error_file']         = 'File could not be found!';
-$_['error_file_type']    = 'Invalid file type!';
-$_['error_directory']    = 'Directory could not be found!';
-$_['error_not_found']    = 'Error: Could not find file %s !';
-$_['error_headers_sent'] = 'Error: Headers already sent out!';
-$_['error_upload_size']  = 'Upload file cannot be larger than %s!';
+$_['error_permission']   = 'Uyarı: Yedekleme ve Geri Yükleme işlemlerini değiştirme yetkiniz yok!';
+$_['error_table']        = '%s tablosu izin verilen listede değil!';
+$_['error_file']         = 'Dosya bulunamadı!';
+$_['error_file_type']    = 'Geçersiz dosya türü!';
+$_['error_directory']    = 'Dizin bulunamadı!';
+$_['error_not_found']    = 'Hata: %s dosyası bulunamadı!';
+$_['error_headers_sent'] = 'Hata: Üstbilgiler zaten gönderildi!';
+$_['error_upload_size']  = 'Yükleme dosyası %s değerinden büyük olamaz!';
